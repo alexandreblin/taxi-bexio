@@ -1,0 +1,10 @@
+*.pyc
+/*.egg
+/build/*
+/dist/*
+/MANIFEST
+/taxi_bexio.egg-info
+/.eggs
+/.tox
+/.cache
+/doc/_build/
