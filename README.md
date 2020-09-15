@@ -49,7 +49,7 @@ Usage
 -----
 
 Let's say you used "FooBar" as the `[company_name]`.
-Run `taxi alias list -b my_bexio_backend` (which lists all the projects added from Bexio), it should give you something like : 
+Run `taxi alias list -b my_bexio_backend` (which lists all the projects added from Bexio), it should give you something like :
 
 ```
 [my_bexio_backend] FOOBAR-2 -> FOOBAR/2 ([bexio] FooBar, .................)
@@ -64,7 +64,7 @@ FOOBAR-2   08:00-09:00    Trying out taxi-bexio plugin
 ```
 
 Or you could add custom taxi aliases by using the taxi project/activity part (`FOOBAR/1`).
-Run `taxi config`, then append to the file : 
+Run `taxi config`, then append to the file :
 
 ```
 [my_bexio_backend_aliases]

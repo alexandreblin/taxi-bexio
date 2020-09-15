@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 from taxi_bexio import __version__
 
 install_requires = [
-    #'taxi>=5.0', Disabled for now, until we can use py.pi releases again
+    'taxi>=6.0',
     'requests>=2.3.0',
 ]
 
